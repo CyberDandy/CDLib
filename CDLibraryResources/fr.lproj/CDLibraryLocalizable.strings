@@ -1,0 +1,14 @@
+/* 
+ CDLibraryLocalizable.strings
+ CDLibrary
+ 
+ Created by Mehdi Mlala on 02/02/2016.
+ Copyright © 2016 CyberDandy. All rights reserved.
+ */
+
+
+"CANCEL" = "Annuler";
+"RETRY" = "Réessayer";
+
+"ALERT_VIEW_CONNECTION_ERROR_TITLE" = "Erreur de connexion";
+"ALERT_VIEW_CONNECTION_ERROR_MESSAGE" = "Verifiez votre connexion de données ou Wi-Fi";
